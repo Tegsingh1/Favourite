@@ -1,0 +1,45 @@
+body {
+    background-color: #9FA8DA;
+}
+
+
+h1 {
+    text-align: center;
+    color: Red;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-size: 25px;
+    text-align: cenetr;
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    Top;
+    10px;
+    right: 30px;
+    cursor: pointer;
+    Color: black;
+
+}
+
+h4 {
+    text-align: center;
+}
+
+h5 {
+    text-align: center
+}
+
+html {
+    scroll-behavior: smooth;
+}
+h6{
+    font-size:70;
+}
